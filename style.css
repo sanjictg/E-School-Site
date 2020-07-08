@@ -6,3 +6,25 @@
     background-size: cover;
     border: none;
 }
+.container{
+   margin-bottom: 100px;
+}
+.p{
+    color: darkgrey;
+    line height: 25px;
+}
+.h2{
+    color: white;
+}
+.h2{
+    font-size: 18px;
+}
+.footer-top{
+    background: black;
+    padding: 80px 0;
+}
+.fotter-bottom-text{
+    text-align: center;
+    background: #000
+    line-height: 75px;
+}
